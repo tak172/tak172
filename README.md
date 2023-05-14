@@ -6,4 +6,4 @@ I actively study sports programming and algorithms.
 I am currently developing projects for my resume and learning multi-threaded programming
 ___
 [Telegram](https://t.me/Y_tay)
-[Gmail](timofeykromach172@gmail.com)
+Gmail: timofeykromach172@gmail.com
