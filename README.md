@@ -1,15 +1,18 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">Привет, меня зовут Тимофей</a>
 
 ### 📬 Обратная связь
-[![Github Badge](https://clck.ru/35FXCt)](https://github.com/tak172) [![Gmail Badge](https://clck.ru/35FXCR)](mailto:timofeykromach172@gmail.com) [![Telegram](https://clck.ru/35FXJc)](https://t.me/Y_tay) [![VK](https://clck.ru/35FXAr)](https://vk.com/tay_only_y)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/tak172)](https://github.com/tak172) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:timofeykromach172@gmail.com)](mailto:timofeykromach172@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-gray?logo=Telegram&logoColor=white)](https://t.me/Y_tay) [![VK](https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=blue&logo=VK&logoColor=white)](https://vk.com/tay_only_y)
+
+---
 
 ### Немного обо мне...<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-Я **студент🎓**, занимаюсь изучением языка С++ и других аспектов программирования. Главной задачей для меня является **постоянное развитие** и **получение знаний**. В свободное время решаю алгоритмические задачи, читаю техническую литературу, занимаюсь написанием пет-проектов. Увлекаюсь музыкой и плаванием.<br/>
+Я **студент🎓**, занимаюсь изучением языка С++ и других аспектов программирования. Главной задачей для меня является **постоянное развитие** и **получение знаний**. В свободное время решаю алгоритмические задачи, читаю техническую литературу, занимаюсь написанием пет-проектов. Увлекаюсь музыкой и плаванием.
+
+---
 
 ## ⚡️ Несколько кратких фактов
 
-<img width="500" src="https://clck.ru/35FWh6" align=right>
-<br/>
+<img width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm43NmkzenQydHd5M3pkeHI3NXhqeHB6aWNtMGpzM3A4em4wanAzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj491qX7K45qZs6EP/giphy.gif" align=right>
 
 - 🤖 Участвую во многих проектах
 <br/>
@@ -24,7 +27,8 @@
 <br/>
 
 - 👻 Получаю удовольствие от работы и учебы
-<br/>
+
+---
 
 ### 👨‍💻 Языки программирования и разметки
   <p align="center">
@@ -35,6 +39,8 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-black.svg?logo=css3"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-black.svg?logo=html5"></a>
   </p>
+
+---
 
 ### 🛠 Инструменты:
 
@@ -52,6 +58,8 @@
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-black?logo=sqlite"></a>
   </p>
+
+---
 
 ### 🚀 Leetcode
 <p align="center">
