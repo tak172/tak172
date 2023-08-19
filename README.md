@@ -11,7 +11,7 @@
 ---
 
 ## ⚡️ Несколько кратких фактов
-
+ 
 <img width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm43NmkzenQydHd5M3pkeHI3NXhqeHB6aWNtMGpzM3A4em4wanAzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj491qX7K45qZs6EP/giphy.gif" align=right>
 
 - 🤖 Участвую во многих проектах
