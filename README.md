@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">Привет, меня зовут Тимофей</a>
  
 ### 📬 Обратная связь 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/tak172)](https://github.com/tak172) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:timofeykromach172@gmail.com)](mailto:timofeykromach172@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-gray?logo=Telegram&logoColor=white)](https://t.me/Y_tay) [![VK](https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=blue&logo=VK&logoColor=white)](https://vk.com/tay_only_y) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/tak172)](https://github.com/tak172) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:timofeykromach172@gmail.com)](mailto:timofeykromach172@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-gray?logo=Telegram&logoColor=white)](https://t.me/tak_172)
  
 ---
 
